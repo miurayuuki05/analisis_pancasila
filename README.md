@@ -43,16 +43,6 @@ conda activate text-analysis
 pip install -r requirements.txt
 ```
 
-## Project Structure
-
-```
-.
-├── README.md
-├── requirements.txt
-└── notebooks/
-    └── analysis.ipynb
-```
-
 ## Running the Notebook
 
 1. Ensure your virtual environment is activated
