@@ -1,6 +1,11 @@
 
 # Pancasila
 
+## Analysis Result
+
+1. Notebook File
+2. result.csv
+
 ## Prerequisites
 
 - Python 3.8 or higher
