@@ -1,7 +1,5 @@
 
-# Text Analysis and Sentiment Classification Project
-
-This project implements a text analysis and sentiment classification system using various NLP techniques and deep learning models.
+# Pancasila
 
 ## Prerequisites
 
@@ -13,7 +11,7 @@ This project implements a text analysis and sentiment classification system usin
 
 1. First, clone this repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/miurayuuki05/analisis_pancasila.git)
 cd analisis_pancasila
 ```
 
