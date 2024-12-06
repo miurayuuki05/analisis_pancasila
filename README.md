@@ -91,6 +91,3 @@ pip install -U Sastrawi
 
 Feel free to submit issues and enhancement requests.
 
-## License
-
-[Specify your license here]
