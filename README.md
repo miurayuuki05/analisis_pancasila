@@ -11,7 +11,7 @@
 
 1. First, clone this repository:
 ```bash
-git clone [<repository-url>](https://github.com/miurayuuki05/analisis_pancasila.git)
+git clone https://github.com/miurayuuki05/analisis_pancasila.git
 cd analisis_pancasila
 ```
 
