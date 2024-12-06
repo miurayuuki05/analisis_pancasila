@@ -1,0 +1,82 @@
+no,text,sentiment,positive,neutral,negative,compound
+1,PBB ungkap bahwa toko roti di Gaza Utara terancam tutup akibat kelangkaan bahan pokok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+2,"Menteri Ketenagakerjaan akan adakan Job Fair tiap minggu untuk atasi 7,5 Juta pengangguran","{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3182}",0.161,0.839,0.0,0.3182
+3,DPR tetapkan program pengampunan pajak jadi prioritas di perencanaan undang-undang,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+4,Prabowo harap India kirim profesor & dokter untuk ajar pendidikan kesehatan di Indonesia,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+5,Indonesia kalahkan Arab Saudi 2-0 di kualifikasi Piala Dunia 2026,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+6,Baleg DPR tolak usulan RUU larang perdagangan daging anjing dan kucing,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+7,Donald Trump akan kerahkan militer untuk deportasi massal imigran ilegal di AS,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+8,Menteri Sosial pastikan ibu hamil dapat Bansos sebesar Rp750 ribu per bulan melalui program PKH,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+9,Manajer Jake Paul respon balik tantangan duel tinju dari Ishowspeed dengan nilai 20 juta USD,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+10,Jorge Martin raih gelar perdananya sebagai juara dunia MotoGP 2024,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+11,"Status Jakarta saat Ini Masih Tetap Ibu Kota RI, Ternyata Ini Alasannya","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+12,"Orang Luar Makan Salad, Orang Indonesia Tetap Milih Sebat","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+13,"Buka Suara Soal Kasus Mary Jane, Menko Yusril: Dipindahkan ke Filipina, Bukan Dibebaskan","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+14,Timnas Indonesia Cetak Sejarah Baru Usai Kalahkan Saudi Arabia dengan Skor 2-0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+15,Update Kasus P Diddy: dituduh Berusaha Halangi Proses Hukum dari Balik Penjara!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+16,RS Harapan Kita jadi Yang Pertama di RI Lakukan Operasi Jantung Robotik,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+17,"Ibu Aaliyah Massaid, Reza Artamevia, Kena Kasus Penipuan Berlian Senilai Rp150M!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+18,Prabowo targetkan harga tiket pesawat sudah turun sebelum natal dan tahun baru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+19,Menteri Pendidikan bakal renov 22 ribu sekolah yang tidak terurus selama ini,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+20,"Tom Lembong resmi jadi tersangka kasus korupsi impor gula, negara rugi 400 M","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+21,Ada 20ribu milenial ikut daftar menjadi Petani dengan gaji Rp10 juta perbulan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+22,"Progam Mensos, ibu hamil & lansia dpt Rp750rb dan Rp600rb /3 bulan","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+23,Anggota DPR usul siswa wajib untuk membaca 15-30 menit sblm belajar,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+24,BMKG memprediksi cuaca di Indonesia bakal makin panas di tahun 2025 nanti,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+25,Museum Nasional Indonesia ini resmi Kembali dibuka tgl 15 Oktober 2024,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+26,Saat Jokowi Sebut Lebih dari 80 Paslon Minta Dukungannya di Pilkada 2024 + Paripurna DPR Sahkan RUU DKJ Jadi Undang-Undang,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+27,"Ahmad Riza Patria Jadi Cawagud Ridwan Kamil? PKS Cabut, Anies Baswedan Tunggu Kejutan Pilgub Jakarta","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+28,"Paskibraka Asal Sumbar Sempat Ditunjuk Bawa Baki, Diganti di Detik Terakhir dengan yang Tanpa Jilbab","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+29,"Jaksa Agung Akui Ada Pegawai Kejaksaan yang Main Judi Online: Iseng-Iseng Sajal Jokowi Disebut Titip Menteri ke Prabowo, Gibran dan Budi Arie Kompak Membantah","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+30,Susi Pudjiastuti Tolak Gabung Kabinet Menteri Prabowo-Gibran,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+31,"Streamer Crypto Kehilangan Rp1,5 Miliar usai Seed Pharse Bocor","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+32,BPIP: Lepas Jilbab Paskibraka Demi Keseragaman,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+33,"Hasil Survei SRMC Pertama dan Kedua, Sumarling-Timber teratas di Pilkada Kolut 2024","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+34,"Presiden Prabowo resmi hapus utang petani, nelayan & UMKM lainnya","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+35,Istri di NTT bakar suami pas lg tidur karena kecanduan main judi online,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+36,Kementan Gandeng Raffi Ahmad untuk dorong Regenerasi Petani ke Milenial,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+37,Nasaruddin Umar Siap Bersih-bersih di Kementrian Agama,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+38,"Bantah Kabar Kenaikan Gaji Guru Rp 2 Juta, Wamen Pendidikan: Kenaikan akan berdasarkan sertifikasi","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+39,PPATK Blokir Belasan Rekening Ivan Sugianto,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+40,Petinggi Take-Two ungkap AI tak bantu pembuatan game lebih cepat,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+41,"Lagi dikembangkan, WI-FI 8 tak bakal bawa peningkatan kecepatan internet","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+42,OpenAI sebut memakai software anti-scrapping adalah penyalahgunaan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+43,Waspada malware bersembunyi di file ZIP untuk hindari deteksi anti-virus!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+44,Vietnam ikutan blokir Temu jika tidak patuhi aturan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+45,Karyawan NetEase ditangkap atas dugaan kasus pencucian uang,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+46,Sebuah studi sebut 53% gamer lebih suka game single-player disbanding game live service,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+47,Google mau kembangkan pencarian berbasis suara secara real-time,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+48,Denuvo kecewa terhadap gamer yang benci dengan program anti-piracy,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+49,Harga saham Ubisoft terus anjlok sejak kacaunya rilis game Star Wars Outlaws,"{'neg': 0.247, 'neu': 0.753, 'pos': 0.0, 'compound': -0.5574}",0.0,0.753,0.247,-0.5574
+50,Presiden Prabowo meminta pelajaran Matematika untuk dikenalin dari TK,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+51,Pemerintah rogoh Rp800 Miliar per hari buat program makan bergizi gratis,"{'neg': 0.0, 'neu': 0.893, 'pos': 0.107, 'compound': 0.0516}",0.107,0.893,0.0,0.0516
+52,"Utang warga RI di Paylater mencapai Rp26,37 Triliun per bulan Agustus 2024","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+53,Menteri Singapura diadili karena terima gratifikasi jet pribadi sampai tiket bola,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+54,"Finalis Miss Swiss dibun*h suaminya sendiri, dimutil*si, hingga diblend*r","{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.1531}",0.0,0.833,0.167,-0.1531
+55,Satu hari di bumi bakal jadi 25 jam karena rotasi bumi melambat,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+56,Pria asal India ini ramal kiamat terjadi pada 10 Agustus,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+57,Mentan janji beri gaji  Rp10jt per bulan buat Milenial yg mau jadi petani,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+58,Dharma kun bilang banjir bukan musibah tapi rezeki dari Tuhan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+59,Kemenkominfo: 92 persen kebisingan ruang digital diisi buzzer,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+60,"Sebanyak 97,2% warga Indonesia belum sikat gigi dengan benar","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+61,Thailand temukan residu kimia yang bahaya di anggur Shine Muscat,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+62,"Mengharukan, Viral Bocah Kelas 4 SD Tak Mau Makan Siang Gratis Karena Teringat Ibunya Belum Makan: Tiap Hari Disisihkan untuk Mama","{'neg': 0.0, 'neu': 0.941, 'pos': 0.059, 'compound': 0.0516}",0.059,0.941,0.0,0.0516
+63,"Menurut studi, cowok akan terlihat menarik kalo dirinya baik dan pintar","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+64,"Riset: Wanita butuh tidur lebih lama dr pria, karna otaknya kerja lebih keras","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+65,Momen saat JKT48 nyanyi jingle terbaru Scarlett “Happy and Pretty” di Pestapora,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+66,China Akan Bantu Buat Danai Makan Bergizi Gratis Dari Presiden Prabowo,"{'neg': 0.0, 'neu': 0.893, 'pos': 0.107, 'compound': 0.0516}",0.107,0.893,0.0,0.0516
+67,SD-SMA Negeri & Swasta di Jakarta Bakal Grais Mulai Juli Tahun 2025,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+68,Shin Tae-Yong Akan Tinggal di Indonesia Seumur Hidup Kalau Timnas Lolos Pildun,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+69,Wakil Ketua DPR Jamin Tak Akan Ada Pengesahan RUU Pilkada Diam-Diam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+70,"PPN RI Tahun 2025 Mau Naik Jadi 12%, Jadi Yang Paling Tinggi Se-ASEAN","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+71,Mendikdasmen RI Singgung Tentang Wajib Belajar 13 Tahun & Akan aji Ulang Ujian Nasional (UN),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+72,Apakah ChatGPT bisa kalahkan dokter dalam uji diagnosis penyakit?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+73,"Rumah penjual kain di Bandung digrebek, ternyata markas admin ""judi online""","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+74,Pemerintah masukkan coding jadi mapel pilihan mulai tahun ajaran baru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+75,"KTT G20, Prabowo : daerah pesisir kami terendam laut, terpaksa pindahkan ibu kota","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+76,Paspor baru Indonesia hadirkan halaman polikarbonat cegah pemalsuan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+77,Terdakwa kasus timah keberatan asetnya disita kejagung untuk tutupi kerugian negara Rp 332 T,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+78,Anggota DPR usul siswa wajib untuk membaca 15-30 menit sebelum belajar,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+79,"Setelah china, Presiden AS Joe Biden nyatakan dukung program makan bergizi gratis Prabowo","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.0516}",0.091,0.909,0.0,0.0516
+80,Ada 363 ribu orang Indonesia punya tabungan bank di atas Rp2 M,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,1.0,0.0,0.0
+81,China akan bantu buat danai makan bergizi gratis dari Presiden Prabowo,"{'neg': 0.0, 'neu': 0.893, 'pos': 0.107, 'compound': 0.0516}",0.107,0.893,0.0,0.0516
